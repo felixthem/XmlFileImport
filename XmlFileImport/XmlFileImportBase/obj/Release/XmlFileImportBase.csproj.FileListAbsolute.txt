@@ -1,0 +1,13 @@
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\bin\Release\XmlFileImportBase.dll
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\bin\Release\XmlFileImportBase.pdb
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\bin\Release\EPPlus.dll
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\bin\Release\EPPlus.Interfaces.dll
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\bin\Release\EPPlus.System.Drawing.dll
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\bin\Release\EPPlus.xml
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\obj\Release\XmlFileImportBase.csproj.AssemblyReference.cache
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\obj\Release\XmlFileImportBase.csproj.CoreCompileInputs.cache
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\obj\Release\XmlFileImportBase.csproj.CopyComplete
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\obj\Release\XmlFileImportBase.dll
+F:\CloneWars\XmlFileImport\XmlFileImport\XmlFileImportBase\obj\Release\XmlFileImportBase.pdb
